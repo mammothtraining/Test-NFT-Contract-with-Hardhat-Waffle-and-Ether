@@ -1,4 +1,4 @@
-#Test NFT Contract with Hardhat, Waffle and Ether
+##Test NFT Contract with Hardhat, Waffle and Ether
 
 https://youtu.be/oTpmNEYV8iQ 
  
